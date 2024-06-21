@@ -1,13 +1,16 @@
 import feedparser
 import time
+from datetime import datetime
 
 def fetch_rss(url):
     feed = feedparser.parse(url)
+    results = []
     for entry in feed.entries:
-        print(f"Title: {entry.title}")
-        print(f"Link: {entry.link}")
-        print(f"Published: {entry.published}")
-        print(f"Summary: {entry.summary}\n")
+        headline = entry.title
+        description = entry.summary[:200] + '...' if len(entry.summary) > 200 else entry.summary
+        link = entry.link
+        results.append(f"Headline: {headline}\nDescription: {description}\nLink: {link}\n")
+    return "\n".join(results)
 
 # List of RSS feed URLs
 feeds = [
@@ -16,10 +19,14 @@ feeds = [
     # Add more feed URLs here
 ]
 
-while True:
-    for feed in feeds:
-        print(f"Fetching feed: {feed}")
-        fetch_rss(feed)
-    
-    # Wait for an hour before checking again
-    time.sleep(3600)
+output = f"AI Research Updates - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n"
+
+for feed in feeds:
+    output += f"From feed: {feed}\n"
+    output += fetch_rss(feed)
+    output += "\n---\n\n"
+
+with open('ai_research_updates.txt', 'w', encoding='utf-8') as f:
+    f.write(output)
+
+print("AI research updates have been written to ai_research_updates.txt")
