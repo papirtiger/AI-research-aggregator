@@ -1,4 +1,4 @@
-AI Research Updates - 2024-06-25 12:27:05
+AI Research Updates - 2024-06-25 18:15:06
 
 From feed: http://export.arxiv.org/rss/cs.AI
 Headline: SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors
