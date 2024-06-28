@@ -1,4 +1,4 @@
-AI Research Updates - 2024-06-27 16:06:30
+AI Research Updates - 2024-06-28 02:26:48
 
 From feed: http://export.arxiv.org/rss/cs.AI
 Headline: Towards a Science Exocortex
@@ -36,8 +36,8 @@ Description: arXiv:2406.18166v1 Announce Type: new
 Abstract: Knowledge graph (KG) completion aims to find out missing triples in a KG. Some tasks, such as link prediction and instance completion, have been propos...
 Link: https://arxiv.org/abs/2406.18166
 
-Headline: Games of Knightian Uncertainty
-Description: arXiv:2406.18178v1 Announce Type: new 
+Headline: Games of Knightian Uncertainty as AGI testbeds
+Description: arXiv:2406.18178v2 Announce Type: new 
 Abstract: Arguably, for the latter part of the late 20th and early 21st centuries, games have been seen as the drosophila of AI. Games are a set of exciting test...
 Link: https://arxiv.org/abs/2406.18178
 
@@ -327,7 +327,7 @@ Abstract: Robustness remains a paramount concern in deep reinforcement learning 
 Link: https://arxiv.org/abs/2406.18062
 
 Headline: Large Language Models for Cuffless Blood Pressure Measurement From Wearable Biosignals
-Description: arXiv:2406.18069v1 Announce Type: cross 
+Description: arXiv:2406.18069v2 Announce Type: cross 
 Abstract: Large language models (LLMs) have captured significant interest from both academia and industry due to their impressive performance across various te...
 Link: https://arxiv.org/abs/2406.18069
 
@@ -397,7 +397,7 @@ Abstract: In conversational AI, personalizing dialogues with persona profiles an
 Link: https://arxiv.org/abs/2406.18187
 
 Headline: Methodology of Adapting Large English Language Models for Specific Cultural Contexts
-Description: arXiv:2406.18192v1 Announce Type: cross 
+Description: arXiv:2406.18192v2 Announce Type: cross 
 Abstract: The rapid growth of large language models(LLMs) has emerged as a prominent trend in the field of artificial intelligence. However, current state-of-t...
 Link: https://arxiv.org/abs/2406.18192
 
@@ -477,7 +477,7 @@ Abstract: Graph neural networks (GNNs) excel in learning from network-like data 
 Link: https://arxiv.org/abs/2406.18354
 
 Headline: Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process
-Description: arXiv:2406.18361v1 Announce Type: cross 
+Description: arXiv:2406.18361v2 Announce Type: cross 
 Abstract: Diffusion models have demonstrated their effectiveness across various generative tasks. However, when applied to medical image segmentation, these mo...
 Link: https://arxiv.org/abs/2406.18361
 
@@ -497,7 +497,7 @@ Abstract: Binary malware summarization aims to automatically generate human-read
 Link: https://arxiv.org/abs/2406.18379
 
 Headline: SAM: Semi-Active Mechanism for Extensible Continuum Manipulator and Real-time Hysteresis Compensation Control Algorithm
-Description: arXiv:2406.18388v1 Announce Type: cross 
+Description: arXiv:2406.18388v2 Announce Type: cross 
 Abstract: Cable-Driven Continuum Manipulators (CDCMs) enable scar-free procedures via natural orifices and improve target lesion accessibility through curved p...
 Link: https://arxiv.org/abs/2406.18388
 
@@ -1175,7 +1175,7 @@ Abstract: In conversational AI, personalizing dialogues with persona profiles an
 Link: https://arxiv.org/abs/2406.18187
 
 Headline: Methodology of Adapting Large English Language Models for Specific Cultural Contexts
-Description: arXiv:2406.18192v1 Announce Type: new 
+Description: arXiv:2406.18192v2 Announce Type: new 
 Abstract: The rapid growth of large language models(LLMs) has emerged as a prominent trend in the field of artificial intelligence. However, current state-of-the...
 Link: https://arxiv.org/abs/2406.18192
 
@@ -1200,7 +1200,7 @@ Abstract: Filtering and annotating textual data are routine tasks in many areas,
 Link: https://arxiv.org/abs/2406.18239
 
 Headline: Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems
-Description: arXiv:2406.18245v1 Announce Type: new 
+Description: arXiv:2406.18245v2 Announce Type: new 
 Abstract: The inherent ambiguity of cause and effect boundaries poses a challenge in evaluating causal event extraction tasks. Traditional metrics like Exact Mat...
 Link: https://arxiv.org/abs/2406.18245
 
@@ -1225,7 +1225,7 @@ Abstract: We address the challenges and opportunities in the development of know
 Link: https://arxiv.org/abs/2406.18276
 
 Headline: Hierarchical Context Pruning: Optimizing Real-World Code Completion with Repository-Level Pretrained Code LLMs
-Description: arXiv:2406.18294v1 Announce Type: new 
+Description: arXiv:2406.18294v2 Announce Type: new 
 Abstract: Some recently developed code large language models (Code LLMs) have been pre-trained on repository-level code data (Repo-Code LLMs), enabling these mod...
 Link: https://arxiv.org/abs/2406.18294
 
@@ -1370,7 +1370,7 @@ Abstract: Many empirical studies of labor market questions rely on estimating re
 Link: https://arxiv.org/abs/2406.17972
 
 Headline: Large Language Models for Cuffless Blood Pressure Measurement From Wearable Biosignals
-Description: arXiv:2406.18069v1 Announce Type: cross 
+Description: arXiv:2406.18069v2 Announce Type: cross 
 Abstract: Large language models (LLMs) have captured significant interest from both academia and industry due to their impressive performance across various te...
 Link: https://arxiv.org/abs/2406.18069
 
@@ -1444,8 +1444,8 @@ Description: arXiv:2312.12009v2 Announce Type: replace
 Abstract: Actively inferring user preferences, for example by asking good questions, is important for any human-facing decision-making system. Active inferen...
 Link: https://arxiv.org/abs/2312.12009
 
-Headline: Caught in the Quicksand of Reasoning, Far from AGI Summit: Evaluating LLMs' Mathematical and Coding Competency through Ontology-guided Interventions
-Description: arXiv:2401.09395v3 Announce Type: replace 
+Headline: Evaluating LLMs' Mathematical and Coding Competency through Ontology-guided Interventions
+Description: arXiv:2401.09395v4 Announce Type: replace 
 Abstract: Recent advancements in Large Language Models (LLMs) have showcased striking results on existing logical reasoning benchmarks, with some models even...
 Link: https://arxiv.org/abs/2401.09395
 
@@ -1480,7 +1480,7 @@ Abstract: We propose a pretraining method to use Self-Supervised Speech (SSS) mo
 Link: https://arxiv.org/abs/2402.19333
 
 Headline: MM-MATH: Advancing Multimodal Math Evaluation with Process Evaluation and Fine-grained Classification
-Description: arXiv:2404.05091v2 Announce Type: replace 
+Description: arXiv:2404.05091v3 Announce Type: replace 
 Abstract: To advance the evaluation of multimodal math reasoning in large multimodal models (LMMs), this paper introduces a novel benchmark, MM-MATH. MM-MATH...
 Link: https://arxiv.org/abs/2404.05091
 
