@@ -1,10 +1,1273 @@
-AI Research Updates - 2024-09-23 02:43:07
+AI Research Updates - 2024-09-24 02:43:00
 
 From feed: http://export.arxiv.org/rss/cs.AI
+Headline: HeadCT-ONE: Enabling Granular and Controllable Automated Evaluation of Head CT Radiology Report Generation
+Description: arXiv:2409.13038v1 Announce Type: new 
+Abstract: We present Head CT Ontology Normalized Evaluation (HeadCT-ONE), a metric for evaluating head CT report generation through ontology-normalized entity an...
+Link: https://arxiv.org/abs/2409.13038
+
+Headline: LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench
+Description: arXiv:2409.13373v1 Announce Type: new 
+Abstract: The ability to plan a course of action that achieves a desired state of affairs has long been considered a core competence of intelligent agents and ha...
+Link: https://arxiv.org/abs/2409.13373
+
+Headline: A User Study on Contrastive Explanations for Multi-Effector Temporal Planning with Non-Stationary Costs
+Description: arXiv:2409.13427v1 Announce Type: new 
+Abstract: In this paper, we adopt constrastive explanations within an end-user application for temporal planning of smart homes. In this application, users have ...
+Link: https://arxiv.org/abs/2409.13427
+
+Headline: Dermatologist-like explainable AI enhances melanoma diagnosis accuracy: eye-tracking study
+Description: arXiv:2409.13476v1 Announce Type: new 
+Abstract: Artificial intelligence (AI) systems have substantially improved dermatologists' diagnostic accuracy for melanoma, with explainable AI (XAI) systems fu...
+Link: https://arxiv.org/abs/2409.13476
+
+Headline: DARDA: Domain-Aware Real-Time Dynamic Neural Network Adaptation
+Description: arXiv:2409.09753v1 Announce Type: cross 
+Abstract: Test Time Adaptation (TTA) has emerged as a practical solution to mitigate the performance degradation of Deep Neural Networks (DNNs) in the presence...
+Link: https://arxiv.org/abs/2409.09753
+
+Headline: OpenRANet: Neuralized Spectrum Access by Joint Subcarrier and Power Allocation with Optimization-based Deep Learning
+Description: arXiv:2409.12964v1 Announce Type: cross 
+Abstract: The next-generation radio access network (RAN), known as Open RAN, is poised to feature an AI-native interface for wireless cellular networks, includ...
+Link: https://arxiv.org/abs/2409.12964
+
+Headline: MITHOS: Interactive Mixed Reality Training to Support Professional Socio-Emotional Interactions at Schools
+Description: arXiv:2409.12968v1 Announce Type: cross 
+Abstract: Teachers in challenging conflict situations often experience shame and self-blame, which relate to the feeling of incompetence but may externalise as...
+Link: https://arxiv.org/abs/2409.12968
+
+Headline: TRACE: Transformer-based user Representations from Attributed Clickstream Event sequences
+Description: arXiv:2409.12972v1 Announce Type: cross 
+Abstract: For users navigating travel e-commerce websites, the process of researching products and making a purchase often results in intricate browsing patter...
+Link: https://arxiv.org/abs/2409.12972
+
+Headline: The Era of Foundation Models in Medical Imaging is Approaching : A Scoping Review of the Clinical Value of Large-Scale Generative AI Applications in Radiology
+Description: arXiv:2409.12973v1 Announce Type: cross 
+Abstract: Social problems stemming from the shortage of radiologists are intensifying, and artificial intelligence is being highlighted as a potential solution...
+Link: https://arxiv.org/abs/2409.12973
+
+Headline: Can we only use guideline instead of shot in prompt?
+Description: arXiv:2409.12979v1 Announce Type: cross 
+Abstract: Currently, prompting techniques can be mainly divided into two categories:1)shot method implicitly inspires the model to answer the question by mimic...
+Link: https://arxiv.org/abs/2409.12979
+
+Headline: Hyperbolic Brain Representations
+Description: arXiv:2409.12990v1 Announce Type: cross 
+Abstract: Artificial neural networks (ANN) were inspired by the architecture and functions of the human brain and have revolutionised the field of artificial i...
+Link: https://arxiv.org/abs/2409.12990
+
+Headline: DiffEditor: Enhancing Speech Editing with Semantic Enrichment and Acoustic Consistency
+Description: arXiv:2409.12992v1 Announce Type: cross 
+Abstract: As text-based speech editing becomes increasingly prevalent, the demand for unrestricted free-text editing continues to grow. However, existing speec...
+Link: https://arxiv.org/abs/2409.12992
+
+Headline: Performance and Power: Systematic Evaluation of AI Workloads on Accelerators with CARAML
+Description: arXiv:2409.12994v1 Announce Type: cross 
+Abstract: The rapid advancement of machine learning (ML) technologies has driven the development of specialized hardware accelerators designed to facilitate mo...
+Link: https://arxiv.org/abs/2409.12994
+
+Headline: Improving generalisability of 3D binding affinity models in low data regimes
+Description: arXiv:2409.12995v1 Announce Type: cross 
+Abstract: Predicting protein-ligand binding affinity is an essential part of computer-aided drug design. However, generalisable and performant global binding a...
+Link: https://arxiv.org/abs/2409.12995
+
+Headline: pyrtklib: An open-source package for tightly coupled deep learning and GNSS integration for positioning in urban canyons
+Description: arXiv:2409.12996v1 Announce Type: cross 
+Abstract: Artificial intelligence (AI) is revolutionizing numerous fields, with increasing applications in Global Navigation Satellite Systems (GNSS) positioni...
+Link: https://arxiv.org/abs/2409.12996
+
+Headline: VCAT: Vulnerability-aware and Curiosity-driven Adversarial Training for Enhancing Autonomous Vehicle Robustness
+Description: arXiv:2409.12997v1 Announce Type: cross 
+Abstract: Autonomous vehicles (AVs) face significant threats to their safe operation in complex traffic environments. Adversarial training has emerged as an ef...
+Link: https://arxiv.org/abs/2409.12997
+
+Headline: Introducing the Large Medical Model: State of the art healthcare cost and risk prediction with transformers trained on patient event sequences
+Description: arXiv:2409.13000v1 Announce Type: cross 
+Abstract: With U.S. healthcare spending approaching $5T (NHE Fact Sheet 2024), and 25% of it estimated to be wasteful (Waste in the US the health care system: ...
+Link: https://arxiv.org/abs/2409.13000
+
+Headline: iCost: A Novel Instance Complexity Based Cost-Sensitive Learning Framework for Imbalanced Classification
+Description: arXiv:2409.13007v1 Announce Type: cross 
+Abstract: Class imbalance in data presents significant challenges for classification tasks. It is fairly common and requires careful handling to obtain desirab...
+Link: https://arxiv.org/abs/2409.13007
+
+Headline: LLM Surgery: Efficient Knowledge Unlearning and Editing in Large Language Models
+Description: arXiv:2409.13054v1 Announce Type: cross 
+Abstract: Large language models (LLMs) have revolutionized various domains, yet their utility comes with significant challenges related to outdated or problema...
+Link: https://arxiv.org/abs/2409.13054
+
+Headline: Comprehensive Overview of Artificial Intelligence Applications in Modern Industries
+Description: arXiv:2409.13059v1 Announce Type: cross 
+Abstract: Artificial Intelligence (AI) is fundamentally reshaping various industries by enhancing decision-making processes, optimizing operations, and unlocki...
+Link: https://arxiv.org/abs/2409.13059
+
+Headline: Fear and Loathing on the Frontline: Decoding the Language of Othering by Russia-Ukraine War Bloggers
+Description: arXiv:2409.13064v1 Announce Type: cross 
+Abstract: Othering, the act of portraying outgroups as fundamentally different from the ingroup, often escalates into framing them as existential threats--fuel...
+Link: https://arxiv.org/abs/2409.13064
+
+Headline: AutoVerus: Automated Proof Generation for Rust Code
+Description: arXiv:2409.13082v1 Announce Type: cross 
+Abstract: Generative AI has shown its values for many software engineering tasks. Still in its infancy, large language model (LLM)-based proof generation lags ...
+Link: https://arxiv.org/abs/2409.13082
+
+Headline: FedAT: Federated Adversarial Training for Distributed Insider Threat Detection
+Description: arXiv:2409.13083v1 Announce Type: cross 
+Abstract: Insider threats usually occur from within the workplace, where the attacker is an entity closely associated with the organization. The sequence of ac...
+Link: https://arxiv.org/abs/2409.13083
+
+Headline: Interpretable Action Recognition on Hard to Classify Actions
+Description: arXiv:2409.13091v1 Announce Type: cross 
+Abstract: We investigate a human-like interpretable model of video understanding. Humans recognise complex activities in video by recognising critical spatio-t...
+Link: https://arxiv.org/abs/2409.13091
+
+Headline: Guided Profile Generation Improves Personalization with LLMs
+Description: arXiv:2409.13093v1 Announce Type: cross 
+Abstract: In modern commercial systems, including Recommendation, Ranking, and E-Commerce platforms, there is a trend towards improving customer experiences by...
+Link: https://arxiv.org/abs/2409.13093
+
+Headline: DenoMamba: A fused state-space model for low-dose CT denoising
+Description: arXiv:2409.13094v1 Announce Type: cross 
+Abstract: Low-dose computed tomography (LDCT) lower potential risks linked to radiation exposure while relying on advanced denoising algorithms to maintain dia...
+Link: https://arxiv.org/abs/2409.13094
+
+Headline: ERIC: Estimating Rainfall with Commodity Doorbell Camera for Precision Residential Irrigation
+Description: arXiv:2409.13104v1 Announce Type: cross 
+Abstract: Current state-of-the-art residential irrigation systems, such as WaterMyYard, rely on rainfall data from nearby weather stations to adjust irrigation...
+Link: https://arxiv.org/abs/2409.13104
+
+Headline: Evolution and challenges of computer vision and deep learning technologies for analysing mixed construction and demolition waste
+Description: arXiv:2409.13112v1 Announce Type: cross 
+Abstract: Improving the automatic and timely recognition of construction and demolition waste (C&amp;DW) composition is crucial for enhancing business returns,...
+Link: https://arxiv.org/abs/2409.13112
+
+Headline: Personalized 2D Binary Patient Codes of Tissue Images and Immunogenomic Data Through Multimodal Self-Supervised Fusion
+Description: arXiv:2409.13115v1 Announce Type: cross 
+Abstract: The field of medical diagnostics has witnessed a transformative convergence of artificial intelligence (AI) and healthcare data, offering promising a...
+Link: https://arxiv.org/abs/2409.13115
+
+Headline: Are Large Language Models Good Essay Graders?
+Description: arXiv:2409.13120v1 Announce Type: cross 
+Abstract: We evaluate the effectiveness of Large Language Models (LLMs) in assessing essay quality, focusing on their alignment with human grading. More precis...
+Link: https://arxiv.org/abs/2409.13120
+
+Headline: Interpret the Predictions of Deep Networks via Re-Label Distillation
+Description: arXiv:2409.13137v1 Announce Type: cross 
+Abstract: Interpreting the predictions of a black-box deep network can facilitate the reliability of its deployment. In this work, we propose a re-label distil...
+Link: https://arxiv.org/abs/2409.13137
+
+Headline: Learning to Compare Hardware Designs for High-Level Synthesis
+Description: arXiv:2409.13138v1 Announce Type: cross 
+Abstract: High-level synthesis (HLS) is an automated design process that transforms high-level code into hardware designs, enabling the rapid development of ha...
+Link: https://arxiv.org/abs/2409.13138
+
+Headline: The Impact of Feature Embedding Placement in the Ansatz of a Quantum Kernel in QSVMs
+Description: arXiv:2409.13147v1 Announce Type: cross 
+Abstract: Designing a useful feature map for a quantum kernel is a critical task when attempting to achieve an advantage over classical machine learning models...
+Link: https://arxiv.org/abs/2409.13147
+
+Headline: Towards Efficient Neuro-Symbolic AI: From Workload Characterization to Hardware Architecture
+Description: arXiv:2409.13153v1 Announce Type: cross 
+Abstract: The remarkable advancements in artificial intelligence (AI), primarily driven by deep neural networks, are facing challenges surrounding unsustainabl...
+Link: https://arxiv.org/abs/2409.13153
+
+Headline: Morphology and Behavior Co-Optimization of Modular Satellites for Attitude Control
+Description: arXiv:2409.13166v1 Announce Type: cross 
+Abstract: The emergence of modular satellites marks a significant transformation in spacecraft engineering, introducing a new paradigm of flexibility, resilien...
+Link: https://arxiv.org/abs/2409.13166
+
+Headline: Unsupervised Attention-Based Multi-Source Domain Adaptation Framework for Drift Compensation in Electronic Nose Systems
+Description: arXiv:2409.13167v1 Announce Type: cross 
+Abstract: Continuous, long-term monitoring of hazardous, noxious, explosive, and flammable gases in industrial environments using electronic nose (E-nose) syst...
+Link: https://arxiv.org/abs/2409.13167
+
+Headline: FreeAvatar: Robust 3D Facial Animation Transfer by Learning an Expression Foundation Model
+Description: arXiv:2409.13180v1 Announce Type: cross 
+Abstract: Video-driven 3D facial animation transfer aims to drive avatars to reproduce the expressions of actors. Existing methods have achieved remarkable res...
+Link: https://arxiv.org/abs/2409.13180
+
+Headline: Cooperative Resilience in Artificial Intelligence Multiagent Systems
+Description: arXiv:2409.13187v1 Announce Type: cross 
+Abstract: Resilience refers to the ability of systems to withstand, adapt to, and recover from disruptive events. While studies on resilience have attracted si...
+Link: https://arxiv.org/abs/2409.13187
+
+Headline: An adapted large language model facilitates multiple medical tasks in diabetes care
+Description: arXiv:2409.13191v1 Announce Type: cross 
+Abstract: Diabetes is a chronic disease that poses a significant global health burden, and optimizing diabetes management requires multi-stakeholder collaborat...
+Link: https://arxiv.org/abs/2409.13191
+
+Headline: Redefining Data Pairing for Motion Retargeting Leveraging a Human Body Prior
+Description: arXiv:2409.13208v1 Announce Type: cross 
+Abstract: We propose MR.HuBo (Motion Retargeting leveraging a HUman BOdy prior), a cost-effective and convenient method to collect high-quality upper body pair...
+Link: https://arxiv.org/abs/2409.13208
+
+Headline: Relationship between Uncertainty in DNNs and Adversarial Attacks
+Description: arXiv:2409.13232v1 Announce Type: cross 
+Abstract: Deep Neural Networks (DNNs) have achieved state of the art results and even outperformed human accuracy in many challenging tasks, leading to DNNs ad...
+Link: https://arxiv.org/abs/2409.13232
+
+Headline: From Cognition to Precognition: A Future-Aware Framework for Social Navigation
+Description: arXiv:2409.13244v1 Announce Type: cross 
+Abstract: To navigate safely and efficiently in crowded spaces, robots should not only perceive the current state of the environment but also anticipate future...
+Link: https://arxiv.org/abs/2409.13244
+
+Headline: Leveraging Knowledge Graphs and LLMs to Support and Monitor Legislative Systems
+Description: arXiv:2409.13252v1 Announce Type: cross 
+Abstract: Knowledge Graphs (KGs) have been used to organize large datasets into structured, interconnected information, enhancing data analytics across various...
+Link: https://arxiv.org/abs/2409.13252
+
+Headline: Emergent Collective Reproduction via Evolving Neuronal Flocks
+Description: arXiv:2409.13254v1 Announce Type: cross 
+Abstract: This study facilitates the understanding of evolutionary transitions in individuality (ETIs) through a novel artificial life framework, named VitaNov...
+Link: https://arxiv.org/abs/2409.13254
+
+Headline: A generalizable framework for unlocking missing reactions in genome-scale metabolic networks using deep learning
+Description: arXiv:2409.13259v1 Announce Type: cross 
+Abstract: Incomplete knowledge of metabolic processes hinders the accuracy of GEnome-scale Metabolic models (GEMs), which in turn impedes advancements in syste...
+Link: https://arxiv.org/abs/2409.13259
+
+Headline: Time Distributed Deep Learning models for Purely Exogenous Forecasting. Application to Water Table Depth Prediction using Weather Image Time Series
+Description: arXiv:2409.13284v1 Announce Type: cross 
+Abstract: Groundwater resources are one of the most relevant elements in the water cycle, therefore developing models to accurately predict them is a pivotal t...
+Link: https://arxiv.org/abs/2409.13284
+
+Headline: OMG-RL:Offline Model-based Guided Reward Learning for Heparin Treatment
+Description: arXiv:2409.13299v1 Announce Type: cross 
+Abstract: Accurate diagnosis of individual patient conditions and appropriate medication dosing strategies are core elements of personalized medical decision-m...
+Link: https://arxiv.org/abs/2409.13299
+
+Headline: GAProtoNet: A Multi-head Graph Attention-based Prototypical Network for Interpretable Text Classification
+Description: arXiv:2409.13312v1 Announce Type: cross 
+Abstract: Pretrained transformer-based Language Models (LMs) are well-known for their ability to achieve significant improvement on text classification tasks w...
+Link: https://arxiv.org/abs/2409.13312
+
+Headline: SLaVA-CXR: Small Language and Vision Assistant for Chest X-ray Report Automation
+Description: arXiv:2409.13321v1 Announce Type: cross 
+Abstract: Inspired by the success of large language models (LLMs), there is growing research interest in developing LLMs in the medical domain to assist clinic...
+Link: https://arxiv.org/abs/2409.13321
+
+Headline: Time Awareness in Large Language Models: Benchmarking Fact Recall Across Time
+Description: arXiv:2409.13338v1 Announce Type: cross 
+Abstract: Who is the US President? The answer changes depending on when the question is asked. While large language models (LLMs) are evaluated on various reas...
+Link: https://arxiv.org/abs/2409.13338
+
+Headline: A Novel Adaptive Fine-Tuning Algorithm for Multimodal Models: Self-Optimizing Classification and Selection of High-Quality Datasets in Remote Sensing
+Description: arXiv:2409.13345v1 Announce Type: cross 
+Abstract: We propose an adaptive fine-tuning algorithm for multimodal large models. The core steps of this algorithm involve two stages of truncation. First, t...
+Link: https://arxiv.org/abs/2409.13345
+
+Headline: Imagine yourself: Tuning-Free Personalized Image Generation
+Description: arXiv:2409.13346v1 Announce Type: cross 
+Abstract: Diffusion models have demonstrated remarkable efficacy across various image-to-image tasks. In this research, we introduce Imagine yourself, a state-...
+Link: https://arxiv.org/abs/2409.13346
+
+Headline: ID-Guard: A Universal Framework for Combating Facial Manipulation via Breaking Identification
+Description: arXiv:2409.13349v1 Announce Type: cross 
+Abstract: The misuse of deep learning-based facial manipulation poses a potential threat to civil rights. To prevent this fraud at its source, proactive defens...
+Link: https://arxiv.org/abs/2409.13349
+
+Headline: Recent Advancement of Emotion Cognition in Large Language Models
+Description: arXiv:2409.13354v1 Announce Type: cross 
+Abstract: Emotion cognition in large language models (LLMs) is crucial for enhancing performance across various applications, such as social media, human-compu...
+Link: https://arxiv.org/abs/2409.13354
+
+Headline: EmotionQueen: A Benchmark for Evaluating Empathy of Large Language Models
+Description: arXiv:2409.13359v1 Announce Type: cross 
+Abstract: Emotional intelligence in large language models (LLMs) is of great importance in Natural Language Processing. However, the previous research mainly f...
+Link: https://arxiv.org/abs/2409.13359
+
+Headline: FPBoost: Fully Parametric Gradient Boosting for Survival Analysis
+Description: arXiv:2409.13363v1 Announce Type: cross 
+Abstract: Survival analysis is a critical tool for analyzing time-to-event data and extracting valuable clinical insights. Recently, numerous machine learning ...
+Link: https://arxiv.org/abs/2409.13363
+
+Headline: RingMo-Aerial: An Aerial Remote Sensing Foundation Model With A Affine Transformation Contrastive Learning
+Description: arXiv:2409.13366v1 Announce Type: cross 
+Abstract: Aerial Remote Sensing (ARS) vision tasks pose significant challenges due to the unique characteristics of their viewing angles. Existing research has...
+Link: https://arxiv.org/abs/2409.13366
+
+Headline: Audio Codec Augmentation for Robust Collaborative Watermarking of Speech Synthesis
+Description: arXiv:2409.13382v1 Announce Type: cross 
+Abstract: Automatic detection of synthetic speech is becoming increasingly important as current synthesis methods are both near indistinguishable from human sp...
+Link: https://arxiv.org/abs/2409.13382
+
+Headline: Validation & Exploration of Multimodal Deep-Learning Camera-Lidar Calibration models
+Description: arXiv:2409.13402v1 Announce Type: cross 
+Abstract: This article presents an innovative study in exploring, evaluating, and implementing deep learning architectures for the calibration of multi-modal s...
+Link: https://arxiv.org/abs/2409.13402
+
+Headline: Sine Wave Normalization for Deep Learning-Based Tumor Segmentation in CT/PET Imaging
+Description: arXiv:2409.13410v1 Announce Type: cross 
+Abstract: This report presents a normalization block for automated tumor segmentation in CT/PET scans, developed for the autoPET III Challenge. The key innovat...
+Link: https://arxiv.org/abs/2409.13410
+
+Headline: CVT-Occ: Cost Volume Temporal Fusion for 3D Occupancy Prediction
+Description: arXiv:2409.13430v1 Announce Type: cross 
+Abstract: Vision-based 3D occupancy prediction is significantly challenged by the inherent limitations of monocular vision in depth estimation. This paper intr...
+Link: https://arxiv.org/abs/2409.13430
+
+Headline: Differentially Private Multimodal Laplacian Dropout (DP-MLD) for EEG Representative Learning
+Description: arXiv:2409.13440v1 Announce Type: cross 
+Abstract: Recently, multimodal electroencephalogram (EEG) learning has shown great promise in disease detection. At the same time, ensuring privacy in clinical...
+Link: https://arxiv.org/abs/2409.13440
+
+Headline: Global Outlier Detection in a Federated Learning Setting with Isolation Forest
+Description: arXiv:2409.13466v1 Announce Type: cross 
+Abstract: We present a novel strategy for detecting global outliers in a federated learning setting, targeting in particular cross-silo scenarios. Our approach...
+Link: https://arxiv.org/abs/2409.13466
+
+Headline: Deterministic versus stochastic dynamical classifiers: opposing random adversarial attacks with noise
+Description: arXiv:2409.13470v1 Announce Type: cross 
+Abstract: The Continuous-Variable Firing Rate (CVFR) model, widely used in neuroscience to describe the intertangled dynamics of excitatory biological neurons,...
+Link: https://arxiv.org/abs/2409.13470
+
+Headline: 'Since Lawyers are Males..': Examining Implicit Gender Bias in Hindi Language Generation by LLMs
+Description: arXiv:2409.13484v1 Announce Type: cross 
+Abstract: Large Language Models (LLMs) are increasingly being used to generate text across various languages, for tasks such as translation, customer support, ...
+Link: https://arxiv.org/abs/2409.13484
+
+Headline: DAP-LED: Learning Degradation-Aware Priors with CLIP for Joint Low-light Enhancement and Deblurring
+Description: arXiv:2409.13496v1 Announce Type: cross 
+Abstract: Autonomous vehicles and robots often struggle with reliable visual perception at night due to the low illumination and motion blur caused by the long...
+Link: https://arxiv.org/abs/2409.13496
+
+Headline: A Deep Learning Approach for Pixel-level Material Classification via Hyperspectral Imaging
+Description: arXiv:2409.13498v1 Announce Type: cross 
+Abstract: Recent advancements in computer vision, particularly in detection, segmentation, and classification, have significantly impacted various domains. How...
+Link: https://arxiv.org/abs/2409.13498
+
+Headline: HUT: A More Computation Efficient Fine-Tuning Method With Hadamard Updated Transformation
+Description: arXiv:2409.13501v1 Announce Type: cross 
+Abstract: Fine-tuning pre-trained language models for downstream tasks has achieved impressive results in NLP. However, fine-tuning all parameters becomes impr...
+Link: https://arxiv.org/abs/2409.13501
+
+Headline: SatFed: A Resource-Efficient LEO Satellite-Assisted Heterogeneous Federated Learning Framework
+Description: arXiv:2409.13503v1 Announce Type: cross 
+Abstract: Traditional federated learning (FL) frameworks rely heavily on terrestrial networks, where coverage limitations and increasing bandwidth congestion s...
+Link: https://arxiv.org/abs/2409.13503
+
+Headline: A Survey on Moral Foundation Theory and Pre-Trained Language Models: Current Advances and Challenges
+Description: arXiv:2409.13521v1 Announce Type: cross 
+Abstract: Moral values have deep roots in early civilizations, codified within norms and laws that regulated societal order and the common good. They play a cr...
+Link: https://arxiv.org/abs/2409.13521
+
+Headline: Contextualized AI for Cyber Defense: An Automated Survey using LLMs
+Description: arXiv:2409.13524v1 Announce Type: cross 
+Abstract: This paper surveys the potential of contextualized AI in enhancing cyber defense capabilities, revealing significant research growth from 2015 to 202...
+Link: https://arxiv.org/abs/2409.13524
+
+Headline: ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resources
+Description: arXiv:2409.13537v1 Announce Type: cross 
+Abstract: Recent developments in large language models (LLMs) have led to significant improvements in intelligent dialogue systems'ability to handle complex in...
+Link: https://arxiv.org/abs/2409.13537
+
+Headline: First Place Solution to the Multiple-choice Video QA Track of The Second Perception Test Challenge
+Description: arXiv:2409.13538v1 Announce Type: cross 
+Abstract: In this report, we present our first-place solution to the Multiple-choice Video Question Answering (QA) track of The Second Perception Test Challeng...
+Link: https://arxiv.org/abs/2409.13538
+
+Headline: Certified Adversarial Robustness via Partition-based Randomized Smoothing
+Description: arXiv:2409.13546v1 Announce Type: cross 
+Abstract: A reliable application of deep neural network classifiers requires robustness certificates against adversarial perturbations. Gaussian smoothing is a...
+Link: https://arxiv.org/abs/2409.13546
+
+Headline: Generating Visual Stories with Grounded and Coreferent Characters
+Description: arXiv:2409.13555v1 Announce Type: cross 
+Abstract: Characters are important in narratives. They move the plot forward, create emotional connections, and embody the story's themes. Visual storytelling ...
+Link: https://arxiv.org/abs/2409.13555
+
+Headline: Trustworthy Hate Speech Detection Through Visual Augmentation
+Description: arXiv:2409.13557v1 Announce Type: cross 
+Abstract: The surge of hate speech on social media platforms poses a significant challenge, with hate speech detection~(HSD) becoming increasingly critical. Cu...
+Link: https://arxiv.org/abs/2409.13557
+
+Headline: Efficient Visualization of Neural Networks with Generative Models and Adversarial Perturbations
+Description: arXiv:2409.13559v1 Announce Type: cross 
+Abstract: This paper presents a novel approach for deep visualization via a generative network, offering an improvement over existing methods. Our model simpli...
+Link: https://arxiv.org/abs/2409.13559
+
+Headline: Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Tensorflow Pretrained Models
+Description: arXiv:2409.13566v1 Announce Type: cross 
+Abstract: This book focuses on the application of TensorFlow pre-trained models in deep learning, providing detailed guidance on effectively using these models...
+Link: https://arxiv.org/abs/2409.13566
+
+Headline: Scalable Multi-agent Reinforcement Learning for Factory-wide Dynamic Scheduling
+Description: arXiv:2409.13571v1 Announce Type: cross 
+Abstract: Real-time dynamic scheduling is a crucial but notoriously challenging task in modern manufacturing processes due to its high decision complexity. Rec...
+Link: https://arxiv.org/abs/2409.13571
+
+Headline: Region Prompt Tuning: Fine-grained Scene Text Detection Utilizing Region Text Prompt
+Description: arXiv:2409.13576v1 Announce Type: cross 
+Abstract: Recent advancements in prompt tuning have successfully adapted large-scale models like Contrastive Language-Image Pre-trained (CLIP) for downstream t...
+Link: https://arxiv.org/abs/2409.13576
+
+Headline: Time and Tokens: Benchmarking End-to-End Speech Dysfluency Detection
+Description: arXiv:2409.13582v1 Announce Type: cross 
+Abstract: Speech dysfluency modeling is a task to detect dysfluencies in speech, such as repetition, block, insertion, replacement, and deletion. Most recent a...
+Link: https://arxiv.org/abs/2409.13582
+
+Headline: Neurosymbolic Conformal Classification
+Description: arXiv:2409.13585v1 Announce Type: cross 
+Abstract: The last decades have seen a drastic improvement of Machine Learning (ML), mainly driven by Deep Learning (DL). However, despite the resounding succe...
+Link: https://arxiv.org/abs/2409.13585
+
+Headline: ChainBuddy: An AI Agent System for Generating LLM Pipelines
+Description: arXiv:2409.13588v1 Announce Type: cross 
+Abstract: As large language models (LLMs) advance, their potential applications have grown significantly. However, it remains difficult to evaluate LLM behavio...
+Link: https://arxiv.org/abs/2409.13588
+
+Headline: YesBut: A High-Quality Annotated Multimodal Dataset for evaluating Satire Comprehension capability of Vision-Language Models
+Description: arXiv:2409.13592v1 Announce Type: cross 
+Abstract: Understanding satire and humor is a challenging task for even current Vision-Language models. In this paper, we propose the challenging tasks of Sati...
+Link: https://arxiv.org/abs/2409.13592
+
+Headline: MeLIAD: Interpretable Few-Shot Anomaly Detection with Metric Learning and Entropy-based Scoring
+Description: arXiv:2409.13602v1 Announce Type: cross 
+Abstract: Anomaly detection (AD) plays a pivotal role in multimedia applications for detecting defective products and automating quality inspection. Deep learn...
+Link: https://arxiv.org/abs/2409.13602
+
+Headline: MaPPER: Multimodal Prior-guided Parameter Efficient Tuning for Referring Expression Comprehension
+Description: arXiv:2409.13609v1 Announce Type: cross 
+Abstract: Referring Expression Comprehension (REC), which aims to ground a local visual region via natural language, is a task that heavily relies on multimoda...
+Link: https://arxiv.org/abs/2409.13609
+
+Headline: Advancing Event Causality Identification via Heuristic Semantic Dependency Inquiry Network
+Description: arXiv:2409.13621v1 Announce Type: cross 
+Abstract: Event Causality Identification (ECI) focuses on extracting causal relations between events in texts. Existing methods for ECI primarily rely on causa...
+Link: https://arxiv.org/abs/2409.13621
+
+Headline: OATS: Outlier-Aware Pruning Through Sparse and Low Rank Decomposition
+Description: arXiv:2409.13652v1 Announce Type: cross 
+Abstract: The recent paradigm shift to large-scale foundation models has brought about a new era for deep learning that, while has found great success in pract...
+Link: https://arxiv.org/abs/2409.13652
+
+Headline: A sound description: Exploring prompt templates and class descriptions to enhance zero-shot audio classification
+Description: arXiv:2409.13676v1 Announce Type: cross 
+Abstract: Audio-text models trained via contrastive learning offer a practical approach to perform audio classification through natural language prompts, such ...
+Link: https://arxiv.org/abs/2409.13676
+
+Headline: ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation
+Description: arXiv:2409.13682v1 Announce Type: cross 
+Abstract: Navigating and understanding complex environments over extended periods of time is a significant challenge for robots. People interacting with the ro...
+Link: https://arxiv.org/abs/2409.13682
+
+Headline: The FIX Benchmark: Extracting Features Interpretable to eXperts
+Description: arXiv:2409.13684v1 Announce Type: cross 
+Abstract: Feature-based methods are commonly used to explain model predictions, but these methods often implicitly assume that interpretable features are readi...
+Link: https://arxiv.org/abs/2409.13684
+
+Headline: The Impact of Large Language Models in Academia: from Writing to Speaking
+Description: arXiv:2409.13686v1 Announce Type: cross 
+Abstract: Large language models (LLMs) are increasingly impacting human society, particularly in textual information. Based on more than 30,000 papers and 1,00...
+Link: https://arxiv.org/abs/2409.13686
+
+Headline: Morphological Detection and Classification of Microplastics and Nanoplastics Emerged from Consumer Products by Deep Learning
+Description: arXiv:2409.13688v1 Announce Type: cross 
+Abstract: Plastic pollution presents an escalating global issue, impacting health and environmental systems, with micro- and nanoplastics found across mediums ...
+Link: https://arxiv.org/abs/2409.13688
+
+Headline: Embedding Knowledge Graphs in Degenerate Clifford Algebras
+Description: arXiv:2402.04870v2 Announce Type: replace 
+Abstract: Clifford algebras are a natural generalization of the real numbers, the complex numbers, and the quaternions. So far, solely Clifford algebras of t...
+Link: https://arxiv.org/abs/2402.04870
+
+Headline: Causal Effect Estimation Using Random Hyperplane Tessellations
+Description: arXiv:2404.10907v3 Announce Type: replace 
+Abstract: Matching is one of the simplest approaches for estimating causal effects from observational data. Matching techniques compare the observed outcomes...
+Link: https://arxiv.org/abs/2404.10907
+
+Headline: Generative AI Voting: Fair Collective Choice is Resilient to LLM Biases and Inconsistencies
+Description: arXiv:2406.11871v3 Announce Type: replace 
+Abstract: Scaling up deliberative and voting participation is a longstanding endeavor -- a cornerstone for direct democracy and legitimate collective choice....
+Link: https://arxiv.org/abs/2406.11871
+
+Headline: MetaSumPerceiver: Multimodal Multi-Document Evidence Summarization for Fact-Checking
+Description: arXiv:2407.13089v2 Announce Type: replace 
+Abstract: Fact-checking real-world claims often requires reviewing multiple multimodal documents to assess a claim's truthfulness, which is a highly laboriou...
+Link: https://arxiv.org/abs/2407.13089
+
+Headline: FreqTSF: Time Series Forecasting Via Capturing Intra- and Inter-Variable Variations in the frequency domain
+Description: arXiv:2407.21275v3 Announce Type: replace 
+Abstract: Time series forecasting (TSF) plays a crucial role in various applications, including electricity transformation, medical monitoring, and crop grow...
+Link: https://arxiv.org/abs/2407.21275
+
+Headline: Towards Probabilistic Inductive Logic Programming with Neurosymbolic Inference and Relaxation
+Description: arXiv:2408.11367v2 Announce Type: replace 
+Abstract: Many inductive logic programming (ILP) methods are incapable of learning programs from probabilistic background knowledge, e.g. coming from sensory...
+Link: https://arxiv.org/abs/2408.11367
+
+Headline: Enhancing Transferability of Adversarial Attacks with GE-AdvGAN+: A Comprehensive Framework for Gradient Editing
+Description: arXiv:2408.12673v3 Announce Type: replace 
+Abstract: Transferable adversarial attacks pose significant threats to deep neural networks, particularly in black-box scenarios where internal model informa...
+Link: https://arxiv.org/abs/2408.12673
+
+Headline: Autonomous Goal Detection and Cessation in Reinforcement Learning: A Case Study on Source Term Estimation
+Description: arXiv:2409.09541v2 Announce Type: replace 
+Abstract: Reinforcement Learning has revolutionized decision-making processes in dynamic environments, yet it often struggles with autonomously detecting and...
+Link: https://arxiv.org/abs/2409.09541
+
+Headline: What is the best RNN-cell structure to forecast each time series behavior?
+Description: arXiv:2203.07844v2 Announce Type: replace-cross 
+Abstract: It is unquestionable that time series forecasting is of paramount importance in many fields. The most used machine learning models to address...
+Link: https://arxiv.org/abs/2203.07844
+
+Headline: Toward Data Efficient Model Merging between Different Datasets without Performance Degradation
+Description: arXiv:2306.05641v2 Announce Type: replace-cross 
+Abstract: Model merging is attracting attention as a novel method for creating a new model by combining the weights of different trained models. While ...
+Link: https://arxiv.org/abs/2306.05641
+
+Headline: Step fusion: Local and global mutual guidance
+Description: arXiv:2306.16950v3 Announce Type: replace-cross 
+Abstract: Feature alignment is the primary means of fusing multimodal data. We propose a feature alignment method that fully fuses multimodal informati...
+Link: https://arxiv.org/abs/2306.16950
+
+Headline: Bridging the Projection Gap: Overcoming Projection Bias Through Parameterized Distance Learning
+Description: arXiv:2309.01390v3 Announce Type: replace-cross 
+Abstract: Generalized zero-shot learning (GZSL) aims to recognize samples from both seen and unseen classes using only seen class samples for training....
+Link: https://arxiv.org/abs/2309.01390
+
+Headline: Towards Faithful Knowledge Graph Explanation Through Deep Alignment in Commonsense Question Answering
+Description: arXiv:2310.04910v5 Announce Type: replace-cross 
+Abstract: The fusion of language models (LMs) and knowledge graphs (KGs) is widely used in commonsense question answering, but generating faithful expl...
+Link: https://arxiv.org/abs/2310.04910
+
+Headline: Knowledge Editing for Large Language Models: A Survey
+Description: arXiv:2310.16218v4 Announce Type: replace-cross 
+Abstract: Large language models (LLMs) have recently transformed both the academic and industrial landscapes due to their remarkable capacity to unders...
+Link: https://arxiv.org/abs/2310.16218
+
+Headline: Learn to Refuse: Making Large Language Models More Controllable and Reliable through Knowledge Scope Limitation and Refusal Mechanism
+Description: arXiv:2311.01041v4 Announce Type: replace-cross 
+Abstract: Large language models (LLMs) have demonstrated impressive language understanding and generation capabilities, enabling them to answer a wide ...
+Link: https://arxiv.org/abs/2311.01041
+
+Headline: MonoCoder: Domain-Specific Code Language Model for HPC Codes and Tasks
+Description: arXiv:2312.13322v3 Announce Type: replace-cross 
+Abstract: With easier access to powerful compute resources, there is a growing trend in AI for software development to develop large language models (L...
+Link: https://arxiv.org/abs/2312.13322
+
+Headline: Robust Survival Analysis with Adversarial Regularization
+Description: arXiv:2312.16019v4 Announce Type: replace-cross 
+Abstract: Survival Analysis (SA) models the time until an event occurs, with applications in fields like medicine, defense, finance, and aerospace. Rec...
+Link: https://arxiv.org/abs/2312.16019
+
+Headline: A Survey of Few-Shot Learning on Graphs: from Meta-Learning to Pre-Training and Prompt Learning
+Description: arXiv:2402.01440v4 Announce Type: replace-cross 
+Abstract: Graph representation learning, a critical step in graph-centric tasks, has seen significant advancements. Earlier techniques often operate in...
+Link: https://arxiv.org/abs/2402.01440
+
+Headline: MQuinE: a cure for "Z-paradox" in knowledge graph embedding models
+Description: arXiv:2402.03583v3 Announce Type: replace-cross 
+Abstract: Knowledge graph embedding (KGE) models achieved state-of-the-art results on many knowledge graph tasks including link prediction and informat...
+Link: https://arxiv.org/abs/2402.03583
+
+Headline: Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models
+Description: arXiv:2402.03877v3 Announce Type: replace-cross 
+Abstract: Large Language Models (LLMs) demonstrate ever-increasing abilities in mathematical and algorithmic tasks, yet their geometric reasoning skill...
+Link: https://arxiv.org/abs/2402.03877
+
+Headline: Neural Slot Interpreters: Grounding Object Semantics in Emergent Slot Representations
+Description: arXiv:2403.07887v2 Announce Type: replace-cross 
+Abstract: Several accounts of human cognition posit that our intelligence is rooted in our ability to form abstract composable concepts, ground them in...
+Link: https://arxiv.org/abs/2403.07887
+
+Headline: Towards Efficient Risk-Sensitive Policy Gradient: An Iteration Complexity Analysis
+Description: arXiv:2403.08955v2 Announce Type: replace-cross 
+Abstract: Reinforcement Learning (RL) has shown exceptional performance across various applications, enabling autonomous agents to learn optimal polici...
+Link: https://arxiv.org/abs/2403.08955
+
+Headline: HeadEvolver: Text to Head Avatars via Expressive and Attribute-Preserving Mesh Deformation
+Description: arXiv:2403.09326v3 Announce Type: replace-cross 
+Abstract: Current text-to-avatar methods often rely on implicit representations (e.g., NeRF, SDF, and DMTet), leading to 3D content that artists cannot...
+Link: https://arxiv.org/abs/2403.09326
+
+Headline: NIGHT -- Non-Line-of-Sight Imaging from Indirect Time of Flight Data
+Description: arXiv:2403.19376v3 Announce Type: replace-cross 
+Abstract: The acquisition of objects outside the Line-of-Sight of cameras is a very intriguing but also extremely challenging research topic. Recent wo...
+Link: https://arxiv.org/abs/2403.19376
+
+Headline: Revolutionizing Disease Diagnosis with simultaneous functional PET/MR and Deeply Integrated Brain Metabolic, Hemodynamic, and Perfusion Networks
+Description: arXiv:2403.20058v3 Announce Type: replace-cross 
+Abstract: Simultaneous functional PET/MR (sf-PET/MR) presents a cutting-edge multimodal neuroimaging technique. It provides an unprecedented opportunit...
+Link: https://arxiv.org/abs/2403.20058
+
+Headline: Latxa: An Open Language Model and Evaluation Suite for Basque
+Description: arXiv:2403.20266v2 Announce Type: replace-cross 
+Abstract: We introduce Latxa, a family of large language models for Basque ranging from 7 to 70 billion parameters. Latxa is based on Llama 2, which we...
+Link: https://arxiv.org/abs/2403.20266
+
+Headline: Cross-Domain Audio Deepfake Detection: Dataset and Analysis
+Description: arXiv:2404.04904v2 Announce Type: replace-cross 
+Abstract: Audio deepfake detection (ADD) is essential for preventing the misuse of synthetic voices that may infringe on personal rights and privacy. R...
+Link: https://arxiv.org/abs/2404.04904
+
+Headline: The Impact of Speech Anonymization on Pathology and Its Limits
+Description: arXiv:2404.08064v4 Announce Type: replace-cross 
+Abstract: Integration of speech into healthcare has intensified privacy concerns due to its potential as a non-invasive biomarker containing individual...
+Link: https://arxiv.org/abs/2404.08064
+
+Headline: Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs
+Description: arXiv:2404.15676v2 Announce Type: replace-cross 
+Abstract: Chain-of-Thought (CoT) has been a widely adopted prompting method, eliciting impressive reasoning abilities of Large Language Models (LLMs). ...
+Link: https://arxiv.org/abs/2404.15676
+
+Headline: Improving Multi-label Recognition using Class Co-Occurrence Probabilities
+Description: arXiv:2404.16193v2 Announce Type: replace-cross 
+Abstract: Multi-label Recognition (MLR) involves the identification of multiple objects within an image. To address the additional complexity of this p...
+Link: https://arxiv.org/abs/2404.16193
+
+Headline: Unveiling Thoughts: A Review of Advancements in EEG Brain Signal Decoding into Text
+Description: arXiv:2405.00726v2 Announce Type: replace-cross 
+Abstract: The conversion of brain activity into text using electroencephalography (EEG) has gained significant traction in recent years. Many researche...
+Link: https://arxiv.org/abs/2405.00726
+
+Headline: TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction
+Description: arXiv:2405.10315v2 Announce Type: replace-cross 
+Abstract: Learning in simulation and transferring the learned policy to the real world has the potential to enable generalist robots. The key challenge...
+Link: https://arxiv.org/abs/2405.10315
+
+Headline: SECURE: Benchmarking Large Language Models for Cybersecurity Advisory
+Description: arXiv:2405.20441v3 Announce Type: replace-cross 
+Abstract: Large Language Models (LLMs) have demonstrated potential in cybersecurity applications but have also caused lower confidence due to problems ...
+Link: https://arxiv.org/abs/2405.20441
+
+Headline: A Dual Approach to Imitation Learning from Observations with Offline Datasets
+Description: arXiv:2406.08805v2 Announce Type: replace-cross 
+Abstract: Demonstrations are an effective alternative to task specification for learning agents in settings where designing a reward function is diffic...
+Link: https://arxiv.org/abs/2406.08805
+
+Headline: Beyond Recommendations: From Backward to Forward AI Support of Pilots' Decision-Making Process
+Description: arXiv:2406.08959v3 Announce Type: replace-cross 
+Abstract: AI is anticipated to enhance human decision-making in high-stakes domains like aviation, but adoption is often hindered by challenges such as...
+Link: https://arxiv.org/abs/2406.08959
+
+Headline: Navigating LLM Ethics: Advancements, Challenges, and Future Directions
+Description: arXiv:2406.18841v3 Announce Type: replace-cross 
+Abstract: This study addresses ethical issues surrounding Large Language Models (LLMs) within the field of artificial intelligence. It explores the com...
+Link: https://arxiv.org/abs/2406.18841
+
+Headline: A Survey on the Application of Generative Adversarial Networks in Cybersecurity: Prospective, Direction and Open Research Scopes
+Description: arXiv:2407.08839v2 Announce Type: replace-cross 
+Abstract: With the proliferation of Artificial Intelligence, there has been a massive increase in the amount of data required to be accumulated and dis...
+Link: https://arxiv.org/abs/2407.08839
+
+Headline: Towards Systematic Monolingual NLP Surveys: GenA of Greek NLP
+Description: arXiv:2407.09861v2 Announce Type: replace-cross 
+Abstract: Natural Language Processing (NLP) research has traditionally been predominantly focused on English, driven by the availability of resources, ...
+Link: https://arxiv.org/abs/2407.09861
+
+Headline: NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models
+Description: arXiv:2407.12366v2 Announce Type: replace-cross 
+Abstract: Capitalizing on the remarkable advancements in Large Language Models (LLMs), there is a burgeoning initiative to harness LLMs for instruction...
+Link: https://arxiv.org/abs/2407.12366
+
+Headline: XMeCap: Meme Caption Generation with Sub-Image Adaptability
+Description: arXiv:2407.17152v3 Announce Type: replace-cross 
+Abstract: Humor, deeply rooted in societal meanings and cultural details, poses a unique challenge for machines. While advances have been made in natur...
+Link: https://arxiv.org/abs/2407.17152
+
+Headline: Generative Adversarial Networks for Imputing Sparse Learning Performance
+Description: arXiv:2407.18875v2 Announce Type: replace-cross 
+Abstract: Learning performance data, such as correct or incorrect responses to questions in Intelligent Tutoring Systems (ITSs) is crucial for tracking...
+Link: https://arxiv.org/abs/2407.18875
+
+Headline: Efficient Shield Synthesis via State-Space Transformation
+Description: arXiv:2407.19911v3 Announce Type: replace-cross 
+Abstract: We consider the problem of synthesizing safety strategies for control systems, also known as shields. Since the state space is infinite, shie...
+Link: https://arxiv.org/abs/2407.19911
+
+Headline: Mining Path Association Rules in Large Property Graphs (with Appendix)
+Description: arXiv:2408.02029v3 Announce Type: replace-cross 
+Abstract: How can we mine frequent path regularities from a graph with edge labels and vertex attributes? The task of association rule mining successfu...
+Link: https://arxiv.org/abs/2408.02029
+
+Headline: ConfusedPilot: Confused Deputy Risks in RAG-based LLMs
+Description: arXiv:2408.04870v4 Announce Type: replace-cross 
+Abstract: Retrieval augmented generation (RAG) is a process where a large language model (LLM) retrieves useful information from a database and then ge...
+Link: https://arxiv.org/abs/2408.04870
+
+Headline: Leveraging Large Language Models for Enhanced Process Model Comprehension
+Description: arXiv:2408.08892v3 Announce Type: replace-cross 
+Abstract: In Business Process Management (BPM), effectively comprehending process models is crucial yet poses significant challenges, particularly as o...
+Link: https://arxiv.org/abs/2408.08892
+
+Headline: FEDKIM: Adaptive Federated Knowledge Injection into Medical Foundation Models
+Description: arXiv:2408.10276v2 Announce Type: replace-cross 
+Abstract: Foundation models have demonstrated remarkable capabilities in handling diverse modalities and tasks, outperforming conventional artificial i...
+Link: https://arxiv.org/abs/2408.10276
+
+Headline: When Raw Data Prevails: Are Large Language Model Embeddings Effective in Numerical Data Representation for Medical Machine Learning Applications?
+Description: arXiv:2408.11854v2 Announce Type: replace-cross 
+Abstract: The introduction of Large Language Models (LLMs) has advanced data representation and analysis, bringing significant progress in their use fo...
+Link: https://arxiv.org/abs/2408.11854
+
+Headline: Celtibero: Robust Layered Aggregation for Federated Learning
+Description: arXiv:2408.14240v2 Announce Type: replace-cross 
+Abstract: Federated Learning (FL) is an innovative approach to distributed machine learning. While FL offers significant privacy advantages, it also fa...
+Link: https://arxiv.org/abs/2408.14240
+
+Headline: A Survey of the Self Supervised Learning Mechanisms for Vision Transformers
+Description: arXiv:2408.17059v2 Announce Type: replace-cross 
+Abstract: Deep supervised learning models require high volume of labeled data to attain sufficiently good results. Although, the practice of gathering ...
+Link: https://arxiv.org/abs/2408.17059
+
+Headline: HERMES: temporal-coHERent long-forM understanding with Episodes and Semantics
+Description: arXiv:2408.17443v2 Announce Type: replace-cross 
+Abstract: Existing research often treats long-form videos as extended short videos, leading to several limitations: inadequate capture of long-range de...
+Link: https://arxiv.org/abs/2408.17443
+
+Headline: Do Large Language Models Possess Sensitive to Sentiment?
+Description: arXiv:2409.02370v2 Announce Type: replace-cross 
+Abstract: Large Language Models (LLMs) have recently displayed their extraordinary capabilities in language understanding. However, how to comprehensiv...
+Link: https://arxiv.org/abs/2409.02370
+
+Headline: Neural Networks with LSTM and GRU in Modeling Active Fires in the Amazon
+Description: arXiv:2409.02681v3 Announce Type: replace-cross 
+Abstract: This study presents a comprehensive methodology for modeling and forecasting the historical time series of active fire spots detected by the ...
+Link: https://arxiv.org/abs/2409.02681
+
+Headline: LIME: Less Is More for MLLM Evaluation
+Description: arXiv:2409.06851v2 Announce Type: replace-cross 
+Abstract: Multimodal Large Language Models (MLLMs) are measured on numerous benchmarks like image captioning, visual question answering, and reasoning....
+Link: https://arxiv.org/abs/2409.06851
+
+Headline: Exploring Information Retrieval Landscapes: An Investigation of a Novel Evaluation Techniques and Comparative Document Splitting Methods
+Description: arXiv:2409.08479v2 Announce Type: replace-cross 
+Abstract: The performance of Retrieval-Augmented Generation (RAG) systems in information retrieval is significantly influenced by the characteristics o...
+Link: https://arxiv.org/abs/2409.08479
+
+Headline: TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings
+Description: arXiv:2409.09564v2 Announce Type: replace-cross 
+Abstract: Currently, inspired by the success of vision-language models (VLMs), an increasing number of researchers are focusing on improving VLMs and h...
+Link: https://arxiv.org/abs/2409.09564
+
+Headline: Motion Forecasting via Model-Based Risk Minimization
+Description: arXiv:2409.10585v2 Announce Type: replace-cross 
+Abstract: Forecasting the future trajectories of surrounding agents is crucial for autonomous vehicles to ensure safe, efficient, and comfortable route...
+Link: https://arxiv.org/abs/2409.10585
+
+Headline: Improve Machine Learning carbon footprint using Parquet dataset format and Mixed Precision training for regression models -- Part II
+Description: arXiv:2409.11071v2 Announce Type: replace-cross 
+Abstract: This is the 2nd part of the dissertation for my master degree and compared the power consumption using the Comma-Separated-Values (CSV) and p...
+Link: https://arxiv.org/abs/2409.11071
+
+Headline: RoMath: A Mathematical Reasoning Benchmark in Romanian
+Description: arXiv:2409.11074v2 Announce Type: replace-cross 
+Abstract: Mathematics has long been conveyed through natural language, primarily for human understanding. With the rise of mechanized mathematics and p...
+Link: https://arxiv.org/abs/2409.11074
+
+Headline: Diversity-grounded Channel Prototypical Learning for Out-of-Distribution Intent Detection
+Description: arXiv:2409.11114v2 Announce Type: replace-cross 
+Abstract: In the realm of task-oriented dialogue systems, a robust intent detection mechanism must effectively handle malformed utterances encountered ...
+Link: https://arxiv.org/abs/2409.11114
+
+Headline: Fast Analysis of the OpenAI O1-Preview Model in Solving Random K-SAT Problem: Does the LLM Solve the Problem Itself or Call an External SAT Solver?
+Description: arXiv:2409.11232v2 Announce Type: replace-cross 
+Abstract: In this manuscript, I present an analysis on the performance of OpenAI O1-preview model in solving random K-SAT instances for K$\in {2,3,4}$ ...
+Link: https://arxiv.org/abs/2409.11232
+
+Headline: Investigation on domain adaptation of additive manufacturing monitoring systems to enhance digital twin reusability
+Description: arXiv:2409.12785v2 Announce Type: replace-cross 
+Abstract: Powder bed fusion (PBF) is an emerging metal additive manufacturing (AM) technology that enables rapid fabrication of complex geometries. How...
+Link: https://arxiv.org/abs/2409.12785
+
+Headline: Scaling Smart: Accelerating Large Language Model Pre-training with Small Model Initialization
+Description: arXiv:2409.12903v2 Announce Type: replace-cross 
+Abstract: The pre-training phase of language models often begins with randomly initialized parameters. With the current trends in scaling models, train...
+Link: https://arxiv.org/abs/2409.12903
+
+Headline: JourneyBench: A Challenging One-Stop Vision-Language Understanding Benchmark of Generated Images
+Description: arXiv:2409.12953v2 Announce Type: replace-cross 
+Abstract: Existing vision-language understanding benchmarks largely consist of images of objects in their usual contexts. As a consequence, recent mult...
+Link: https://arxiv.org/abs/2409.12953
 
 ---
 
 From feed: http://export.arxiv.org/rss/cs.CL
+Headline: Seeing Through Their Eyes: Evaluating Visual Perspective Taking in Vision Language Models
+Description: arXiv:2409.12969v1 Announce Type: new 
+Abstract: Visual perspective-taking (VPT), the ability to understand the viewpoint of another person, enables individuals to anticipate the actions of other peop...
+Link: https://arxiv.org/abs/2409.12969
+
+Headline: TACO-RL: Task Aware Prompt Compression Optimization with Reinforcement Learning
+Description: arXiv:2409.13035v1 Announce Type: new 
+Abstract: The increasing prevalence of large language models (LLMs) such as GPT-4 in various applications has led to a surge in the size of prompts required for ...
+Link: https://arxiv.org/abs/2409.13035
+
+Headline: LLM Surgery: Efficient Knowledge Unlearning and Editing in Large Language Models
+Description: arXiv:2409.13054v1 Announce Type: new 
+Abstract: Large language models (LLMs) have revolutionized various domains, yet their utility comes with significant challenges related to outdated or problemati...
+Link: https://arxiv.org/abs/2409.13054
+
+Headline: Guided Profile Generation Improves Personalization with LLMs
+Description: arXiv:2409.13093v1 Announce Type: new 
+Abstract: In modern commercial systems, including Recommendation, Ranking, and E-Commerce platforms, there is a trend towards improving customer experiences by i...
+Link: https://arxiv.org/abs/2409.13093
+
+Headline: Are Large Language Models Good Essay Graders?
+Description: arXiv:2409.13120v1 Announce Type: new 
+Abstract: We evaluate the effectiveness of Large Language Models (LLMs) in assessing essay quality, focusing on their alignment with human grading. More precisel...
+Link: https://arxiv.org/abs/2409.13120
+
+Headline: RRM: Robust Reward Model Training Mitigates Reward Hacking
+Description: arXiv:2409.13156v1 Announce Type: new 
+Abstract: Reward models (RMs) play a pivotal role in aligning large language models (LLMs) with human preferences. However, traditional RM training, which relies...
+Link: https://arxiv.org/abs/2409.13156
+
+Headline: $\textit{SKIntern}$: Internalizing Symbolic Knowledge for Distilling Better CoT Capabilities into Small Language Models
+Description: arXiv:2409.13183v1 Announce Type: new 
+Abstract: Small Language Models (SLMs) are attracting attention due to the high computational demands and privacy concerns of Large Language Models (LLMs). Some ...
+Link: https://arxiv.org/abs/2409.13183
+
+Headline: An adapted large language model facilitates multiple medical tasks in diabetes care
+Description: arXiv:2409.13191v1 Announce Type: new 
+Abstract: Diabetes is a chronic disease that poses a significant global health burden, and optimizing diabetes management requires multi-stakeholder collaboratio...
+Link: https://arxiv.org/abs/2409.13191
+
+Headline: Exploring Scaling Laws for Local SGD in Large Language Model Training
+Description: arXiv:2409.13198v1 Announce Type: new 
+Abstract: This paper investigates scaling laws for local SGD in LLM training, a distributed optimization algorithm that facilitates training on loosely connected...
+Link: https://arxiv.org/abs/2409.13198
+
+Headline: CFSP: An Efficient Structured Pruning Framework for LLMs with Coarse-to-Fine Activation Information
+Description: arXiv:2409.13199v1 Announce Type: new 
+Abstract: The colossal parameters and computational overhead of Large Language Models (LLMs) challenge their real-world applications. Network pruning, which targ...
+Link: https://arxiv.org/abs/2409.13199
+
+Headline: CITI: Enhancing Tool Utilizing Ability in Large Language Models without Sacrificing General Performance
+Description: arXiv:2409.13202v1 Announce Type: new 
+Abstract: Tool learning enables the Large Language Models (LLMs) to interact with the external environment by invoking tools, enriching the accuracy and capabili...
+Link: https://arxiv.org/abs/2409.13202
+
+Headline: Neural-Symbolic Collaborative Distillation: Advancing Small Language Models for Complex Reasoning Tasks
+Description: arXiv:2409.13203v1 Announce Type: new 
+Abstract: In this paper, we propose $\textbf{Ne}$ural-$\textbf{Sy}$mbolic $\textbf{C}$ollaborative $\textbf{D}$istillation ($\textbf{NesyCD}$), a novel knowledge...
+Link: https://arxiv.org/abs/2409.13203
+
+Headline: Large Language Model Should Understand Pinyin for Chinese ASR Error Correction
+Description: arXiv:2409.13262v1 Announce Type: new 
+Abstract: Large language models can enhance automatic speech recognition systems through generative error correction. In this paper, we propose Pinyin-enhanced G...
+Link: https://arxiv.org/abs/2409.13262
+
+Headline: Towards LifeSpan Cognitive Systems
+Description: arXiv:2409.13265v1 Announce Type: new 
+Abstract: Building a human-like system that continuously interacts with complex environments -- whether simulated digital worlds or human society -- presents sev...
+Link: https://arxiv.org/abs/2409.13265
+
+Headline: Unsupervised Domain Adaptation for Keyphrase Generation using Citation Contexts
+Description: arXiv:2409.13266v1 Announce Type: new 
+Abstract: Adapting keyphrase generation models to new domains typically involves few-shot fine-tuning with in-domain labeled data. However, annotating documents ...
+Link: https://arxiv.org/abs/2409.13266
+
+Headline: GAProtoNet: A Multi-head Graph Attention-based Prototypical Network for Interpretable Text Classification
+Description: arXiv:2409.13312v1 Announce Type: new 
+Abstract: Pretrained transformer-based Language Models (LMs) are well-known for their ability to achieve significant improvement on text classification tasks wit...
+Link: https://arxiv.org/abs/2409.13312
+
+Headline: JMedBench: A Benchmark for Evaluating Japanese Biomedical Large Language Models
+Description: arXiv:2409.13317v1 Announce Type: new 
+Abstract: Recent developments in Japanese large language models (LLMs) primarily focus on general domains, with fewer advancements in Japanese biomedical LLMs. O...
+Link: https://arxiv.org/abs/2409.13317
+
+Headline: Applying Pre-trained Multilingual BERT in Embeddings for Improved Malicious Prompt Injection Attacks Detection
+Description: arXiv:2409.13331v1 Announce Type: new 
+Abstract: Large language models (LLMs) are renowned for their exceptional capabilities, and applying to a wide range of applications. However, this widespread us...
+Link: https://arxiv.org/abs/2409.13331
+
+Headline: Beyond the binary: Limitations and possibilities of gender-related speech technology research
+Description: arXiv:2409.13335v1 Announce Type: new 
+Abstract: This paper presents a review of 107 research papers relating to speech and sex or gender in ISCA Interspeech publications between 2013 and 2023. We not...
+Link: https://arxiv.org/abs/2409.13335
+
+Headline: Time Awareness in Large Language Models: Benchmarking Fact Recall Across Time
+Description: arXiv:2409.13338v1 Announce Type: new 
+Abstract: Who is the US President? The answer changes depending on when the question is asked. While large language models (LLMs) are evaluated on various reason...
+Link: https://arxiv.org/abs/2409.13338
+
+Headline: Recent Advancement of Emotion Cognition in Large Language Models
+Description: arXiv:2409.13354v1 Announce Type: new 
+Abstract: Emotion cognition in large language models (LLMs) is crucial for enhancing performance across various applications, such as social media, human-compute...
+Link: https://arxiv.org/abs/2409.13354
+
+Headline: EmotionQueen: A Benchmark for Evaluating Empathy of Large Language Models
+Description: arXiv:2409.13359v1 Announce Type: new 
+Abstract: Emotional intelligence in large language models (LLMs) is of great importance in Natural Language Processing. However, the previous research mainly foc...
+Link: https://arxiv.org/abs/2409.13359
+
+Headline: Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey
+Description: arXiv:2409.13385v1 Announce Type: new 
+Abstract: Large Language Models (LLMs) showcase remarkable abilities, yet they struggle with limitations such as hallucinations, outdated knowledge, opacity, and...
+Link: https://arxiv.org/abs/2409.13385
+
+Headline: AQA: Adaptive Question Answering in a Society of LLMs via Contextual Multi-Armed Bandit
+Description: arXiv:2409.13447v1 Announce Type: new 
+Abstract: In question answering (QA), different questions can be effectively addressed with different answering strategies. Some require a simple lookup, while o...
+Link: https://arxiv.org/abs/2409.13447
+
+Headline: Minstrel: Structural Prompt Generation with Multi-Agents Coordination for Non-AI Experts
+Description: arXiv:2409.13449v1 Announce Type: new 
+Abstract: LLMs have demonstrated commendable performance across diverse domains. Nevertheless, formulating high-quality prompts to assist them in their work pose...
+Link: https://arxiv.org/abs/2409.13449
+
+Headline: Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models
+Description: arXiv:2409.13474v1 Announce Type: new 
+Abstract: Machine unlearning aims to efficiently eliminate the influence of specific training data, known as the forget set, from the model. However, existing un...
+Link: https://arxiv.org/abs/2409.13474
+
+Headline: A Multimodal Dense Retrieval Approach for Speech-Based Open-Domain Question Answering
+Description: arXiv:2409.13483v1 Announce Type: new 
+Abstract: Speech-based open-domain question answering (QA over a large corpus of text passages with spoken questions) has emerged as an important task due to the...
+Link: https://arxiv.org/abs/2409.13483
+
+Headline: 'Since Lawyers are Males..': Examining Implicit Gender Bias in Hindi Language Generation by LLMs
+Description: arXiv:2409.13484v1 Announce Type: new 
+Abstract: Large Language Models (LLMs) are increasingly being used to generate text across various languages, for tasks such as translation, customer support, an...
+Link: https://arxiv.org/abs/2409.13484
+
+Headline: Constrained Reasoning Chains for Enhancing Theory-of-Mind in Large Language Models
+Description: arXiv:2409.13490v1 Announce Type: new 
+Abstract: Theory-of-Mind (ToM) ability possessed by Large Language Models (LLMs) has been shown to be limited. Most existing methods for improving ToM in LLMs ad...
+Link: https://arxiv.org/abs/2409.13490
+
+Headline: Fast Streaming Transducer ASR Prototyping via Knowledge Distillation with Whisper
+Description: arXiv:2409.13499v1 Announce Type: new 
+Abstract: The training of automatic speech recognition (ASR) with little to no supervised data remains an open question. In this work, we demonstrate that stream...
+Link: https://arxiv.org/abs/2409.13499
+
+Headline: HUT: A More Computation Efficient Fine-Tuning Method With Hadamard Updated Transformation
+Description: arXiv:2409.13501v1 Announce Type: new 
+Abstract: Fine-tuning pre-trained language models for downstream tasks has achieved impressive results in NLP. However, fine-tuning all parameters becomes imprac...
+Link: https://arxiv.org/abs/2409.13501
+
+Headline: LM-assisted keyword biasing with Aho-Corasick algorithm for Transducer-based ASR
+Description: arXiv:2409.13514v1 Announce Type: new 
+Abstract: Despite the recent success of end-to-end models for automatic speech recognition, recognizing special rare and out-of-vocabulary words, as well as fast...
+Link: https://arxiv.org/abs/2409.13514
+
+Headline: A Survey on Moral Foundation Theory and Pre-Trained Language Models: Current Advances and Challenges
+Description: arXiv:2409.13521v1 Announce Type: new 
+Abstract: Moral values have deep roots in early civilizations, codified within norms and laws that regulated societal order and the common good. They play a cruc...
+Link: https://arxiv.org/abs/2409.13521
+
+Headline: EMMeTT: Efficient Multimodal Machine Translation Training
+Description: arXiv:2409.13523v1 Announce Type: new 
+Abstract: A rising interest in the modality extension of foundation language models warrants discussion on the most effective, and efficient, multimodal training...
+Link: https://arxiv.org/abs/2409.13523
+
+Headline: ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resources
+Description: arXiv:2409.13537v1 Announce Type: new 
+Abstract: Recent developments in large language models (LLMs) have led to significant improvements in intelligent dialogue systems'ability to handle complex inqu...
+Link: https://arxiv.org/abs/2409.13537
+
+Headline: Generating Visual Stories with Grounded and Coreferent Characters
+Description: arXiv:2409.13555v1 Announce Type: new 
+Abstract: Characters are important in narratives. They move the plot forward, create emotional connections, and embody the story's themes. Visual storytelling me...
+Link: https://arxiv.org/abs/2409.13555
+
+Headline: Cross-Target Stance Detection: A Survey of Techniques, Datasets, and Challenges
+Description: arXiv:2409.13594v1 Announce Type: new 
+Abstract: Stance detection is the task of determining the viewpoint expressed in a text towards a given target. A specific direction within the task focuses on c...
+Link: https://arxiv.org/abs/2409.13594
+
+Headline: Advancing Event Causality Identification via Heuristic Semantic Dependency Inquiry Network
+Description: arXiv:2409.13621v1 Announce Type: new 
+Abstract: Event Causality Identification (ECI) focuses on extracting causal relations between events in texts. Existing methods for ECI primarily rely on causal ...
+Link: https://arxiv.org/abs/2409.13621
+
+Headline: Beyond Accuracy Optimization: Computer Vision Losses for Large Language Model Fine-Tuning
+Description: arXiv:2409.13641v1 Announce Type: new 
+Abstract: Large Language Models (LLMs) have demonstrated impressive performance across various tasks. However, current training approaches combine standard cross...
+Link: https://arxiv.org/abs/2409.13641
+
+Headline: The Impact of Large Language Models in Academia: from Writing to Speaking
+Description: arXiv:2409.13686v1 Announce Type: new 
+Abstract: Large language models (LLMs) are increasingly impacting human society, particularly in textual information. Based on more than 30,000 papers and 1,000 ...
+Link: https://arxiv.org/abs/2409.13686
+
+Headline: h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment
+Description: arXiv:2408.04811v2 Announce Type: cross 
+Abstract: The safety of Large Language Models (LLMs) remains a critical concern due to a lack of adequate benchmarks for systematically evaluating their abilit...
+Link: https://arxiv.org/abs/2408.04811
+
+Headline: CraftRTL: High-quality Synthetic Data Generation for Verilog Code Models with Correct-by-Construction Non-Textual Representations and Targeted Code Repair
+Description: arXiv:2409.12993v1 Announce Type: cross 
+Abstract: Despite the significant progress made in code generation with large language models, challenges persist, especially with hardware description languag...
+Link: https://arxiv.org/abs/2409.12993
+
+Headline: Natural Language Processing Methods for the Study of Protein-Ligand Interactions
+Description: arXiv:2409.13057v1 Announce Type: cross 
+Abstract: Recent advances in Natural Language Processing (NLP) have ignited interest in developing effective methods for predicting protein-ligand interactions...
+Link: https://arxiv.org/abs/2409.13057
+
+Headline: Embedding Geometries of Contrastive Language-Image Pre-Training
+Description: arXiv:2409.13079v1 Announce Type: cross 
+Abstract: Since the publication of CLIP, the approach of using InfoNCE loss for contrastive pre-training has become widely popular for bridging two or more mod...
+Link: https://arxiv.org/abs/2409.13079
+
+Headline: Personalized Speech Recognition for Children with Test-Time Adaptation
+Description: arXiv:2409.13095v1 Announce Type: cross 
+Abstract: Accurate automatic speech recognition (ASR) for children is crucial for effective real-time child-AI interaction, especially in educational applicati...
+Link: https://arxiv.org/abs/2409.13095
+
+Headline: ChemDFM-X: Towards Large Multimodal Model for Chemistry
+Description: arXiv:2409.13194v1 Announce Type: cross 
+Abstract: Rapid developments of AI tools are expected to offer unprecedented assistance to the research of natural science including chemistry. However, neithe...
+Link: https://arxiv.org/abs/2409.13194
+
+Headline: RLHFuse: Efficient RLHF Training for Large Language Models with Inter- and Intra-Stage Fusion
+Description: arXiv:2409.13221v1 Announce Type: cross 
+Abstract: Reinforcement Learning from Human Feedback (RLHF) stands as a pivotal post-training technique to enhance the alignment between LLMs and human prefere...
+Link: https://arxiv.org/abs/2409.13221
+
+Headline: SLaVA-CXR: Small Language and Vision Assistant for Chest X-ray Report Automation
+Description: arXiv:2409.13321v1 Announce Type: cross 
+Abstract: Inspired by the success of large language models (LLMs), there is growing research interest in developing LLMs in the medical domain to assist clinic...
+Link: https://arxiv.org/abs/2409.13321
+
+Headline: LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench
+Description: arXiv:2409.13373v1 Announce Type: cross 
+Abstract: The ability to plan a course of action that achieves a desired state of affairs has long been considered a core competence of intelligent agents and ...
+Link: https://arxiv.org/abs/2409.13373
+
+Headline: Selective Exploration and Information Gathering in Search and Rescue Using Hierarchical Learning Guided by Natural Language Input
+Description: arXiv:2409.13445v1 Announce Type: cross 
+Abstract: In recent years, robots and autonomous systems have become increasingly integral to our daily lives, offering solutions to complex problems across va...
+Link: https://arxiv.org/abs/2409.13445
+
+Headline: Sketching With Your Voice: "Non-Phonorealistic" Rendering of Sounds via Vocal Imitation
+Description: arXiv:2409.13507v1 Announce Type: cross 
+Abstract: We present a method for automatically producing human-like vocal imitations of sounds: the equivalent of "sketching," but for auditory rather than vi...
+Link: https://arxiv.org/abs/2409.13507
+
+Headline: Contextualized Data-Wrangling Code Generation in Computational Notebooks
+Description: arXiv:2409.13551v1 Announce Type: cross 
+Abstract: Data wrangling, the process of preparing raw data for further analysis in computational notebooks, is a crucial yet time-consuming step in data scien...
+Link: https://arxiv.org/abs/2409.13551
+
+Headline: Demystifying and Extracting Fault-indicating Information from Logs for Failure Diagnosis
+Description: arXiv:2409.13561v1 Announce Type: cross 
+Abstract: Logs are imperative in the maintenance of online service systems, which often encompass important information for effective failure mitigation. While...
+Link: https://arxiv.org/abs/2409.13561
+
+Headline: YesBut: A High-Quality Annotated Multimodal Dataset for evaluating Satire Comprehension capability of Vision-Language Models
+Description: arXiv:2409.13592v1 Announce Type: cross 
+Abstract: Understanding satire and humor is a challenging task for even current Vision-Language models. In this paper, we propose the challenging tasks of Sati...
+Link: https://arxiv.org/abs/2409.13592
+
+Headline: MaPPER: Multimodal Prior-guided Parameter Efficient Tuning for Referring Expression Comprehension
+Description: arXiv:2409.13609v1 Announce Type: cross 
+Abstract: Referring Expression Comprehension (REC), which aims to ground a local visual region via natural language, is a task that heavily relies on multimoda...
+Link: https://arxiv.org/abs/2409.13609
+
+Headline: ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation
+Description: arXiv:2409.13682v1 Announce Type: cross 
+Abstract: Navigating and understanding complex environments over extended periods of time is a significant challenge for robots. People interacting with the ro...
+Link: https://arxiv.org/abs/2409.13682
+
+Headline: ContraSim -- Analyzing Neural Representations Based on Contrastive Learning
+Description: arXiv:2303.16992v3 Announce Type: replace 
+Abstract: Recent work has compared neural network representations via similarity-based analyses to improve model interpretation. The quality of a similarity ...
+Link: https://arxiv.org/abs/2303.16992
+
+Headline: Revisiting the Reliability of Psychological Scales on Large Language Models
+Description: arXiv:2305.19926v4 Announce Type: replace 
+Abstract: Recent research has focused on examining Large Language Models' (LLMs) characteristics from a psychological standpoint, acknowledging the necessity...
+Link: https://arxiv.org/abs/2305.19926
+
+Headline: Towards Faithful Knowledge Graph Explanation Through Deep Alignment in Commonsense Question Answering
+Description: arXiv:2310.04910v5 Announce Type: replace 
+Abstract: The fusion of language models (LMs) and knowledge graphs (KGs) is widely used in commonsense question answering, but generating faithful explanatio...
+Link: https://arxiv.org/abs/2310.04910
+
+Headline: ExtractGPT: Exploring the Potential of Large Language Models for Product Attribute Value Extraction
+Description: arXiv:2310.12537v5 Announce Type: replace 
+Abstract: E-commerce platforms require structured product data in the form of attribute-value pairs to offer features such as faceted product search or attri...
+Link: https://arxiv.org/abs/2310.12537
+
+Headline: Knowledge Editing for Large Language Models: A Survey
+Description: arXiv:2310.16218v4 Announce Type: replace 
+Abstract: Large language models (LLMs) have recently transformed both the academic and industrial landscapes due to their remarkable capacity to understand, ...
+Link: https://arxiv.org/abs/2310.16218
+
+Headline: Learn to Refuse: Making Large Language Models More Controllable and Reliable through Knowledge Scope Limitation and Refusal Mechanism
+Description: arXiv:2311.01041v4 Announce Type: replace 
+Abstract: Large language models (LLMs) have demonstrated impressive language understanding and generation capabilities, enabling them to answer a wide range ...
+Link: https://arxiv.org/abs/2311.01041
+
+Headline: ChemDFM: A Large Language Foundation Model for Chemistry
+Description: arXiv:2401.14818v3 Announce Type: replace 
+Abstract: Artificial intelligence (AI) has played an increasingly important role in chemical research. However, most models currently used in chemistry are s...
+Link: https://arxiv.org/abs/2401.14818
+
+Headline: Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models
+Description: arXiv:2402.03877v3 Announce Type: replace 
+Abstract: Large Language Models (LLMs) demonstrate ever-increasing abilities in mathematical and algorithmic tasks, yet their geometric reasoning skills are ...
+Link: https://arxiv.org/abs/2402.03877
+
+Headline: Python is Not Always the Best Choice: Embracing Multilingual Program of Thoughts
+Description: arXiv:2402.10691v3 Announce Type: replace 
+Abstract: Program of Thoughts (PoT) is an approach characterized by its executable intermediate steps, which ensure the accuracy of the logical calculations ...
+Link: https://arxiv.org/abs/2402.10691
+
+Headline: Exploring Tokenization Strategies and Vocabulary Sizes for Enhanced Arabic Language Models
+Description: arXiv:2403.11130v2 Announce Type: replace 
+Abstract: This paper presents a comprehensive examination of the impact of tokenization strategies and vocabulary sizes on the performance of Arabic language...
+Link: https://arxiv.org/abs/2403.11130
+
+Headline: Awakening Augmented Generation: Learning to Awaken Internal Knowledge of Large Language Models for Question Answering
+Description: arXiv:2403.15268v4 Announce Type: replace 
+Abstract: Retrieval-Augmented-Generation and Generation-Augmented-Generation have been proposed to enhance the knowledge required for question answering with...
+Link: https://arxiv.org/abs/2403.15268
+
+Headline: Latxa: An Open Language Model and Evaluation Suite for Basque
+Description: arXiv:2403.20266v2 Announce Type: replace 
+Abstract: We introduce Latxa, a family of large language models for Basque ranging from 7 to 70 billion parameters. Latxa is based on Llama 2, which we conti...
+Link: https://arxiv.org/abs/2403.20266
+
+Headline: A User-Centric Multi-Intent Benchmark for Evaluating Large Language Models
+Description: arXiv:2404.13940v3 Announce Type: replace 
+Abstract: Large language models (LLMs) are essential tools that users employ across various scenarios, so evaluating their performance and guiding users in s...
+Link: https://arxiv.org/abs/2404.13940
+
+Headline: Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs
+Description: arXiv:2404.15676v2 Announce Type: replace 
+Abstract: Chain-of-Thought (CoT) has been a widely adopted prompting method, eliciting impressive reasoning abilities of Large Language Models (LLMs). Inspir...
+Link: https://arxiv.org/abs/2404.15676
+
+Headline: RAEE: A Robust Retrieval-Augmented Early Exiting Framework for Efficient Inference
+Description: arXiv:2405.15198v2 Announce Type: replace 
+Abstract: Deploying large language model inference remains challenging due to their high computational overhead. Early exiting optimizes model inference by a...
+Link: https://arxiv.org/abs/2405.15198
+
+Headline: MAIRA-2: Grounded Radiology Report Generation
+Description: arXiv:2406.04449v2 Announce Type: replace 
+Abstract: Radiology reporting is a complex task requiring detailed medical image understanding and precise language generation, for which generative multimod...
+Link: https://arxiv.org/abs/2406.04449
+
+Headline: CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems
+Description: arXiv:2406.08101v3 Announce Type: replace 
+Abstract: Conversational explainable artificial intelligence (ConvXAI) systems based on large language models (LLMs) have garnered significant interest from ...
+Link: https://arxiv.org/abs/2406.08101
+
+Headline: What Do the Circuits Mean? A Knowledge Edit View
+Description: arXiv:2406.17241v2 Announce Type: replace 
+Abstract: In the field of language model interpretability, circuit discovery is gaining popularity. Despite this, the true meaning of these circuits remains ...
+Link: https://arxiv.org/abs/2406.17241
+
+Headline: Towards Systematic Monolingual NLP Surveys: GenA of Greek NLP
+Description: arXiv:2407.09861v2 Announce Type: replace 
+Abstract: Natural Language Processing (NLP) research has traditionally been predominantly focused on English, driven by the availability of resources, the si...
+Link: https://arxiv.org/abs/2407.09861
+
+Headline: Conversational Query Reformulation with the Guidance of Retrieved Documents
+Description: arXiv:2407.12363v3 Announce Type: replace 
+Abstract: Conversational search seeks to retrieve relevant passages for the given questions in conversational question answering. Conversational Query Reform...
+Link: https://arxiv.org/abs/2407.12363
+
+Headline: When Raw Data Prevails: Are Large Language Model Embeddings Effective in Numerical Data Representation for Medical Machine Learning Applications?
+Description: arXiv:2408.11854v2 Announce Type: replace 
+Abstract: The introduction of Large Language Models (LLMs) has advanced data representation and analysis, bringing significant progress in their use for medi...
+Link: https://arxiv.org/abs/2408.11854
+
+Headline: Do Large Language Models Possess Sensitive to Sentiment?
+Description: arXiv:2409.02370v2 Announce Type: replace 
+Abstract: Large Language Models (LLMs) have recently displayed their extraordinary capabilities in language understanding. However, how to comprehensively as...
+Link: https://arxiv.org/abs/2409.02370
+
+Headline: How Privacy-Savvy Are Large Language Models? A Case Study on Compliance and Privacy Technical Review
+Description: arXiv:2409.02375v2 Announce Type: replace 
+Abstract: The recent advances in large language models (LLMs) have significantly expanded their applications across various fields such as language generatio...
+Link: https://arxiv.org/abs/2409.02375
+
+Headline: A Simple HMM with Self-Supervised Representations for Phone Segmentation
+Description: arXiv:2409.09646v2 Announce Type: replace 
+Abstract: Despite the recent advance in self-supervised representations, unsupervised phonetic segmentation remains challenging. Most approaches focus on imp...
+Link: https://arxiv.org/abs/2409.09646
+
+Headline: Contextual Breach: Assessing the Robustness of Transformer-based QA Models
+Description: arXiv:2409.10997v3 Announce Type: replace 
+Abstract: Contextual question-answering models are susceptible to adversarial perturbations to input context, commonly observed in real-world scenarios. Thes...
+Link: https://arxiv.org/abs/2409.10997
+
+Headline: RoMath: A Mathematical Reasoning Benchmark in Romanian
+Description: arXiv:2409.11074v2 Announce Type: replace 
+Abstract: Mathematics has long been conveyed through natural language, primarily for human understanding. With the rise of mechanized mathematics and proof a...
+Link: https://arxiv.org/abs/2409.11074
+
+Headline: Diversity-grounded Channel Prototypical Learning for Out-of-Distribution Intent Detection
+Description: arXiv:2409.11114v2 Announce Type: replace 
+Abstract: In the realm of task-oriented dialogue systems, a robust intent detection mechanism must effectively handle malformed utterances encountered in rea...
+Link: https://arxiv.org/abs/2409.11114
+
+Headline: Fast Analysis of the OpenAI O1-Preview Model in Solving Random K-SAT Problem: Does the LLM Solve the Problem Itself or Call an External SAT Solver?
+Description: arXiv:2409.11232v2 Announce Type: replace 
+Abstract: In this manuscript, I present an analysis on the performance of OpenAI O1-preview model in solving random K-SAT instances for K$\in {2,3,4}$ as a f...
+Link: https://arxiv.org/abs/2409.11232
+
+Headline: Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources
+Description: arXiv:2409.11783v2 Announce Type: replace 
+Abstract: The recent success of large language models (LLMs) and the scaling law has led to a widespread adoption of larger models. Particularly in the healt...
+Link: https://arxiv.org/abs/2409.11783
+
+Headline: Gender Representation and Bias in Indian Civil Service Mock Interviews
+Description: arXiv:2409.12194v3 Announce Type: replace 
+Abstract: This paper makes three key contributions. First, via a substantial corpus of 51,278 interview questions sourced from 888 YouTube videos of mock int...
+Link: https://arxiv.org/abs/2409.12194
+
+Headline: ARTICLE: Annotator Reliability Through In-Context Learning
+Description: arXiv:2409.12218v2 Announce Type: replace 
+Abstract: Ensuring annotator quality in training and evaluation data is a key piece of machine learning in NLP. Tasks such as sentiment analysis and offensiv...
+Link: https://arxiv.org/abs/2409.12218
+
+Headline: Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models
+Description: arXiv:2409.12512v2 Announce Type: replace 
+Abstract: Knowledge distillation (KD) is a technique that compresses large teacher models by training smaller student models to mimic them. The success of KD...
+Link: https://arxiv.org/abs/2409.12512
+
+Headline: Michelangelo: Long Context Evaluations Beyond Haystacks via Latent Structure Queries
+Description: arXiv:2409.12640v2 Announce Type: replace 
+Abstract: We introduce Michelangelo: a minimal, synthetic, and unleaked long-context reasoning evaluation for large language models which is also easy to aut...
+Link: https://arxiv.org/abs/2409.12640
+
+Headline: Scaling Smart: Accelerating Large Language Model Pre-training with Small Model Initialization
+Description: arXiv:2409.12903v2 Announce Type: replace 
+Abstract: The pre-training phase of language models often begins with randomly initialized parameters. With the current trends in scaling models, training th...
+Link: https://arxiv.org/abs/2409.12903
+
+Headline: EAMA : Entity-Aware Multimodal Alignment Based Approach for News Image Captioning
+Description: arXiv:2402.19404v5 Announce Type: replace-cross 
+Abstract: News image captioning requires model to generate an informative caption rich in entities, with the news image and the associated news article...
+Link: https://arxiv.org/abs/2402.19404
+
+Headline: Navigating LLM Ethics: Advancements, Challenges, and Future Directions
+Description: arXiv:2406.18841v3 Announce Type: replace-cross 
+Abstract: This study addresses ethical issues surrounding Large Language Models (LLMs) within the field of artificial intelligence. It explores the com...
+Link: https://arxiv.org/abs/2406.18841
+
+Headline: NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models
+Description: arXiv:2407.12366v2 Announce Type: replace-cross 
+Abstract: Capitalizing on the remarkable advancements in Large Language Models (LLMs), there is a burgeoning initiative to harness LLMs for instruction...
+Link: https://arxiv.org/abs/2407.12366
+
+Headline: MetaSumPerceiver: Multimodal Multi-Document Evidence Summarization for Fact-Checking
+Description: arXiv:2407.13089v2 Announce Type: replace-cross 
+Abstract: Fact-checking real-world claims often requires reviewing multiple multimodal documents to assess a claim's truthfulness, which is a highly la...
+Link: https://arxiv.org/abs/2407.13089
+
+Headline: MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark
+Description: arXiv:2408.07543v4 Announce Type: replace-cross 
+Abstract: With the development of Multimodal Large Language Models (MLLMs), the evaluation of multimodal models in the context of mathematical problems...
+Link: https://arxiv.org/abs/2408.07543
+
+Headline: HERMES: temporal-coHERent long-forM understanding with Episodes and Semantics
+Description: arXiv:2408.17443v2 Announce Type: replace-cross 
+Abstract: Existing research often treats long-form videos as extended short videos, leading to several limitations: inadequate capture of long-range de...
+Link: https://arxiv.org/abs/2408.17443
+
+Headline: Property Neurons in Self-Supervised Speech Transformers
+Description: arXiv:2409.05910v2 Announce Type: replace-cross 
+Abstract: There have been many studies on analyzing self-supervised speech Transformers, in particular, with layer-wise analysis. It is, however, desir...
+Link: https://arxiv.org/abs/2409.05910
 
 ---
 
