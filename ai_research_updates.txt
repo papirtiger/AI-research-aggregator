@@ -1,4 +1,4 @@
-AI Research Updates - 2025-01-01 02:50:07
+AI Research Updates - 2025-01-02 02:40:43
 
 From feed: http://export.arxiv.org/rss/cs.AI
 Headline: BaiJia: A Large Scale Role-Playing Agent Corpus of Chinese Historical Charcaters
